@@ -18,6 +18,8 @@ import dirceubelem.exemplo4.to.TOUsuario;
  */
 public class RedeAdapter extends BaseAdapter {
 
+    //teste
+
     private TORede rede;
     private Context context;
 
