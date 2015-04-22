@@ -20,10 +20,12 @@ public class RedeAdapter extends BaseAdapter {
 
     //teste
 
+    private int a;
     private TORede rede;
     private Context context;
 
     public RedeAdapter(TORede rede, Context context) {
+        this.a = 1;
         this.rede = rede;
         this.context = context;
     }
